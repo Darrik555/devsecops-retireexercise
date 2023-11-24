@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.4" serialNumber="urn:uuid:431fae42-a00d-412d-856c-37e485f6b363" version="1">
+  <metadata>
+    <timestamp>2023-11-24T12:29:44.656Z</timestamp>
+    <tools>
+        <tool>
+            <vendor>RetireJS</vendor>
+            <name>retire.js</name>
+            <version>4.3.4</version>
+        </tool>
+    </tools>
+  </metadata>
+  <components>
+    <component type="library">
+      <name>jquery</name>
+      <version>1.10.2</version>
+          <hashes>
+            <hash alg="MD5">e3f24f23b859cf718282e3806ed5ce38</hash>
+            <hash alg="SHA-1">c92a61cb4fbc23adb05973638f60e2999bed4a26</hash>
+            <hash alg="SHA-256">e0108076470765be9ef1e9b242b8a52ef78c8f4532c7263426abc05ea4b60240</hash>
+            <hash alg="SHA-512">84b7b499ab6fc2deb2a2539f011a7455a5220532b181d372489b4a04facdf0c17588051b746c184f92da77c4c972366b9d1390555292e5e54caabedc03f3495f</hash>
+          </hashes>
+      <purl>pkg:npm/jquery@1.10.2</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>bootstrap</name>
+      <version>3.0.0</version>
+          <hashes>
+            <hash alg="MD5">009474ef7077db3674f18cc37439ef32</hash>
+            <hash alg="SHA-1">56a7790abde2d014778373a57203cc760634fbd6</hash>
+            <hash alg="SHA-256">193001e451f4fadfe52d8b7b542b57bde2102492ca1318c39a1b91ce9c20266f</hash>
+            <hash alg="SHA-512">3385c001bae574e3c2d5de0921e06f6532dca411deece8e790f79b376115f9617a8d428e83ce3a40df38b7ec03de9ac57353719ab973f4a63adf7e2b8ae16b0d</hash>
+          </hashes>
+      <purl>pkg:npm/bootstrap@3.0.0</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>bootstrap</name>
+      <version>3.1.1</version>
+          <hashes>
+            <hash alg="MD5">ba847811448ef90d98d272aeccef2a95</hash>
+            <hash alg="SHA-1">5814e91bb6276f4de8b7951c965f2f190a03978d</hash>
+            <hash alg="SHA-256">898d05a17f2cfc5120ddcdba47a885c378c0b466f30f0700e502757e24b403a1</hash>
+            <hash alg="SHA-512">bced99d9331614757643273441a2b8921103382949ab0e510f386c453ec2a2359da39680d8a169e6bcbe7531844eaf5f598560f0d133d3fa3a9f6c7502b148df</hash>
+          </hashes>
+      <purl>pkg:npm/bootstrap@3.1.1</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>jquery-ui</name>
+      <version>1.10.4</version>
+          <hashes>
+            <hash alg="MD5">dee14bd079013b7f8b7d9a67a4f45676</hash>
+            <hash alg="SHA-1">8136518429f61e6a9cb44a1bcf93162169c1728c</hash>
+            <hash alg="SHA-256">16cd27db3efe2735224a3d9541c456435edf00468c6d7e83cb69876399b62264</hash>
+            <hash alg="SHA-512">536b3667299ff477e1c0755021eb165eb6cde841646ca901a8c25b662b0c70854f1b301529c56014770342433154dc6e005cc8f91fd824477eb081374a259ec3</hash>
+          </hashes>
+      <purl>pkg:npm/jquery-ui@1.10.4</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>jquery</name>
+      <version>2.1.4</version>
+          <hashes>
+            <hash alg="MD5">f9c7afd05729f10f55b689f36bb20172</hash>
+            <hash alg="SHA-1">43dc554608df885a59ddeece1598c6ace434d747</hash>
+            <hash alg="SHA-256">f16ab224bb962910558715c82f58c10c3ed20f153ddfaa199029f141b5b0255c</hash>
+            <hash alg="SHA-512">3dcae1ff6e98c64e3586be3eb14dd486c51f7d4e9fa1b8f9a628be4fbb6a9ab562f31f9b50e16d2e0c72b942bdbe84eee8e0ef87fa730db1428b199a59d88232</hash>
+          </hashes>
+      <purl>pkg:npm/jquery@2.1.4</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>jquery-ui</name>
+      <version>1.10.3</version>
+          <hashes>
+            <hash alg="MD5">c14c5c00688f022d3aaa1677e58fc30c</hash>
+            <hash alg="SHA-1">108b9d58ad7a26dfcc5a7086561cedadff0b41fa</hash>
+            <hash alg="SHA-256">e8f4a9a3fa65e20c5ad1db3f3aa63b116b6e2bf8dc2138486d00df9627f52ed0</hash>
+            <hash alg="SHA-512">4c745973896f190b3ee82d9ddae28f45a8f673d8a30db3caf793424fcbcd53e46a640f3b7f173cbc86345102cd5f5df99c6150fba92800d7d8548aead09470af</hash>
+          </hashes>
+      <purl>pkg:npm/jquery-ui@1.10.3</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>jquery-ui</name>
+      <version>1.12.1</version>
+          <hashes>
+            <hash alg="MD5">c15b1008dec3c8967ea657a7bb4baaec</hash>
+            <hash alg="SHA-1">78489e580adaef931e6e5b131dab556c397e4a1a</hash>
+            <hash alg="SHA-256">28ce75d953678c4942df47a11707a15e3c756021cf89090e3e6aa7ad6b6971c3</hash>
+            <hash alg="SHA-512">bada3d9a5433aece7d57020b70b89161e2ca3cf6d2fdb4fbd5d6bf38405813071d35493c8d8232f83d7be91628a29d436be7fd9af918ae68f93022d9584b50b8</hash>
+          </hashes>
+      <purl>pkg:npm/jquery-ui@1.12.1</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>jquery</name>
+      <version>3.4.1</version>
+          <hashes>
+            <hash alg="MD5">f832e36068ab203a3f89b1795480d0d7</hash>
+            <hash alg="SHA-1">2115753ca5fb7032aec498db7bb5dca624dbe6be</hash>
+            <hash alg="SHA-256">4c24dfd28784ad2befb3dafaac6bf1ed4e7cd58cce713d9a0b228d426e812baf</hash>
+            <hash alg="SHA-512">b9dbc08c984ae3c7fd44822ec2e9a22cb8cf7da55fa3975dbbdc3f18fd7e7a7793e8d93604826574e3dd6a4f982d7af4f96c1af5e10d847b8394a34a82c398ba</hash>
+          </hashes>
+      <purl>pkg:npm/jquery@3.4.1</purl>
+      <modified>false</modified>
+    </component>
+    <component type="library">
+      <name>underscore.js</name>
+      <version>1.10.2</version>
+          <hashes>
+            <hash alg="MD5">52caef864228e0b4ca9f97eced0ab2bb</hash>
+            <hash alg="SHA-1">e4cf51325358922e7ceb95707827ba7f19d7fc18</hash>
+            <hash alg="SHA-256">6afd53bf2c2d67866ac828ffe8776d087489767f341c0cd380405326dfcef2e7</hash>
+            <hash alg="SHA-512">1cabc308554a83c64f1a379ccbaa27ed410212913be98f3a87719a13824c0b3f9d78559d8dc5bfb569e1d2109f681bd446f94e6bd7f908d573b7b10592e9586f</hash>
+          </hashes>
+      <purl>pkg:npm/underscore@1.10.2</purl>
+      <modified>false</modified>
+    </component>
+  </components>
+</bom>
